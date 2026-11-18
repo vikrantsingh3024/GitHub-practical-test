@@ -40,7 +40,18 @@ html { scroll-behavior: smooth; }
 
 
 
-/* ===== FOOTER STYLES GO BELOW THIS LINE ===== */
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: #1e3a8a;
+  color: #fff;
+  margin-top: 40px;
+}
+
+.footer p {
+  margin: 5px 0;
+  font-size: 14px;
+}
 
 body.dark { background: #1e1e2e; color: #fff; }
 body.dark header { background: #2a2a3d; }
